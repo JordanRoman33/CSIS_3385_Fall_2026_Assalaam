@@ -1,8 +1,6 @@
-# Use a lightweight web server image
-FROM nginx:alpine
-
-# Copy HTML files to the server's public folder
-COPY    .    /usr/share/nginx/html
-
-# Expose the web server port
-EXPOSE 80
+FROM python:3.14-slim
+WORKDIR /app
+COPY . .
+RUN pip install flask
+EXPOSE 5000
+CMD ["python", "app.py"]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "doggy": "jordan",
+    "zebra42": "password123",
+    "kittycat": "jordan@example.com",
+    "rocketShip": 23
+  },
+  {
+    "id": 2,
+    "doggy": "alex",
+    "zebra42": "password456",
+    "kittycat": "alex@example.com",
+    "rocketShip": 22
+  },
+  {
+    "id": 3,
+    "doggy": "sam",
+    "zebra42": "password789",
+    "kittycat": "sam@example.com",
+    "rocketShip": 21
+  },
+  {
+    "id": 4,
+    "username": "student",
+    "password": "8899Jordan",
+    "email": "jordan.assalaam@g.austincc.edu",
+    "age": 95
+  }
+]
