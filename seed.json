@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "doggy": "ada",
+    "zebra42": "hunter2",
+    "kittycat": "ada@example.com",
+    "rocketShip": 36
+  },
+  {
+    "id": 2,
+    "doggy": "linus",
+    "zebra42": "kernel",
+    "kittycat": "linus@example.com",
+    "rocketShip": 55
+  }
+]
